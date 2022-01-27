@@ -24,7 +24,8 @@ syscfg__DATA =  nudata/sys_cfg/NUC972DF51Y.ini \
 		nudata/sys_cfg/NUC976DK62Y.ini \
 		nudata/sys_cfg/NUC977DK41Y.ini \
 		nudata/sys_cfg/NUC977DK51Y.ini \
-		nudata/sys_cfg/NUC977DK62Y.ini
+		nudata/sys_cfg/NUC977DK62Y.ini \
+		nudata/sys_cfg/NUC97xDx61Y_360M.ini
 
 #image_dir = $(prefix)/share/nudata/image
 #image__DATA = 	nudata/image/nand_uboot_spl.bin \
